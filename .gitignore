@@ -1,0 +1,10 @@
+build
+.vscode
+*.jar
+cmake-build-debug
+cmake-build-release
+src/grammar/.antlr
+src/grammar/antlr4-runtime
+CMakePresets.json
+.vscode
+CMakePresets.json
